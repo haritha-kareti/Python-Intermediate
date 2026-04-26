@@ -102,5 +102,3 @@ and Web Development.
 </ul>
 
 <hr>
-<p><b>Kotesh Rao</b></p>
-<p>© 2026 Python Intermediate Project</p>
