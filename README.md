@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🐍 Python Intermediate Programming</h1>
+<h1> Python Intermediate Programming</h1>
 
 <p>
 This repository contains structured Jupyter Notebooks that cover 
@@ -14,7 +14,7 @@ and Web Development.
 
 <hr>
 
-<h2>📚 Topics Covered</h2>
+<h2> Topics Covered</h2>
 <ul>
     <li>Control Statements & Conditional Statements</li>
     <li>Functions</li>
@@ -92,7 +92,7 @@ and Web Development.
 
 <hr>
 
-<h2>🎯 Learning Outcome</h2>
+<h2> Learning Outcome</h2>
 <ul>
     <li>Strong understanding of control flow</li>
     <li>Ability to write reusable functions</li>
@@ -102,7 +102,5 @@ and Web Development.
 </ul>
 
 <hr>
-
-<h2>📌 Author</h2>
 <p><b>Kotesh Rao</b></p>
 <p>© 2026 Python Intermediate Project</p>
